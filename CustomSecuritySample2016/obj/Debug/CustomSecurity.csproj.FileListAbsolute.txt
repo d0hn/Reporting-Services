@@ -2,3 +2,15 @@ D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.cspr
 D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.App_LocalResources.Logon.aspx.resources
 D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.CustomSecurity.resources
 D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.GenerateResource.Cache
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csprojAssemblyReference.cache
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.App_LocalResources.Logon.aspx.resources
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.CustomSecurity.resources
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.GenerateResource.cache
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll.config
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.pdb
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.CopyComplete
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll
+C:\Users\Mac\Documents\Development\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.pdb

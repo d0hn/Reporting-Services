@@ -42,5 +42,7 @@ namespace Microsoft.Samples.ReportingServices.CustomSecurity.Properties {
                 return ((string)(this["Database_ConnectionString"]));
             }
         }
+
+        public string AnonymousUser { get; internal set; }
     }
 }
