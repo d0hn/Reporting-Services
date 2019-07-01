@@ -1,3 +1,7 @@
+# Note
+This is fully anonymous SSRS authentication. 
+Drop the dlls, include in the config, restart SSRS and off you go.
+
 # Reporting Services
 Git repo for SQL Server Reporting Services samples and community projects
 
